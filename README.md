@@ -1,11 +1,10 @@
 
-<h1>HELLO</h1>
+<h1>Hello!!</h1>
 
 
 - 👋 Hi, I’m @timvma
 - 👀 I’m interested in web development as of the moment
-- 🌱 I’m currently learning a lot of stuff
--     
+- 🌱 My preffered languages/framework
      - Nuxt
      - Vue
      - Vanilla Javascript
