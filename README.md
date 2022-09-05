@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m @timvma
 - 👀 I’m interested in web development as of the moment
-- 🌱 My preffered languages/framework ATM
+- 🌱 Active languages/framework ATM
      - Nuxt
      - Vue
      - Vanilla Javascript
@@ -13,7 +13,7 @@
      - MySQL
 
 
-- Inactive 
+- Inactive (Previously used)
      - Flutter
      - Java
      
