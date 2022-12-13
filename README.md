@@ -2,18 +2,18 @@
 <h1>Hello!!</h1>
 
 - 👋 Hi, I’m @timvma
-- 👀 I’m interested in web development as of the moment
-- 🌱 Active languages/framework ATM
-     - Nuxt
+- 🌱 Active
      - Vue
-     - Vanilla Javascript
+     - Javascript
      - PHP 
      - Wordpress
      - Laravel
      - MySQL
-
+     - Shopify
+     - Liquid
 
 - Inactive (Previously used)
      - Flutter
      - Java
+     - Nuxt
      
