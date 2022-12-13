@@ -9,6 +9,7 @@
      - Wordpress
      - Laravel
      - MySQL
+     - GraphiQL
      - Shopify
      - Liquid
 
