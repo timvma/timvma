@@ -3,18 +3,18 @@
 
 - 👋 Hi, I’m @timvma
 - 🌱 Active
-     - Vue
+     - Nuxt
      - Javascript
      - PHP 
      - Wordpress
      - Laravel
      - MySQL
-     - GraphiQL
+     
      - Shopify
      - Liquid
 
 - Inactive (Previously used)
      - Flutter
      - Java
-     - Nuxt
+     - GraphiQL
      
