@@ -1,7 +1,7 @@
 
 <h1>Hello!!</h1>
 
-- 👋 Hi, I’m @timvma
+
 - 🌱 Active
      - Nuxt
      - Javascript
@@ -13,8 +13,11 @@
      - Shopify
      - Liquid
 
-- Inactive (Previously used)
+- Inactive / Previously used
      - Flutter
      - Java
      - GraphiQL
+     - jQuery
+     - AWS
+ 
      
