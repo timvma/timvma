@@ -1,7 +1,6 @@
 
 <h1>Hello!!</h1>
 
-
 - 🌱 Active
      - Nuxt
      - Javascript
@@ -9,15 +8,16 @@
      - Wordpress
      - Laravel
      - MySQL
-     
      - Shopify
      - Liquid
-
-- Inactive / Previously used
+     - GraphiQL
+    
+     
+- Previously used
      - Flutter
      - Java
-     - GraphiQL
      - jQuery
      - AWS
+     - jQuery
  
      
