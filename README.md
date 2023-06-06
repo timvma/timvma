@@ -13,7 +13,7 @@
      - GraphiQL
     
      
-- Previously used
+- Previously used / Inactive
      - Flutter
      - Java
      - jQuery
