@@ -2,16 +2,16 @@
 <h1>Hello!!</h1>
 
 - 🌱 Active
-     - Nuxt
-     - Javascript
-     - PHP 
-     - Wordpress
-     - Laravel
-     - MySQL
      - Shopify
      - Liquid
+     - Javascript
+     - Vue
+     - Wordpress
+     - Nuxt
+     - PHP 
+     - Laravel
+     - MySQL
      - GraphiQL
-    
      
 - Previously used / Inactive
      - Flutter
