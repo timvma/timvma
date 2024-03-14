@@ -4,7 +4,6 @@
 - Learning
      - React
             - Only learning the basics, like how it works, so far its more code than vue but enjoy learning it.
-            - I don't like the "Learn React" Docs its not as friendly as Vue
 
 - 🌱 Active
      - Shopify
