@@ -11,13 +11,15 @@
      - Javascript
      - Vue
      - Wordpress
-     - Nuxt
      - PHP 
-     - Laravel
-     - MySQL
-     - GraphiQL
+     
+     
      
 - Previously used / Inactive
+     - Nuxt
+     - Laravel
+     - GraphiQL
+     - MySQL
      - Flutter
      - Java
      - jQuery
