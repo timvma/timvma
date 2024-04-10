@@ -3,7 +3,6 @@
 
 - Learning
      - React
-            - Only learning the basics, like how it works, so far its more code than vue but enjoy learning it.
 
 - 🌱 Active
      - Shopify
