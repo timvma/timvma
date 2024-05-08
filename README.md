@@ -2,6 +2,7 @@
 <h1>Hello!!</h1>
 
 :beetle: Active
+
      - Shopify
      - Liquid
      - Javascript
@@ -10,6 +11,7 @@
      - PHP 
      
 🌱 Learning
+
      - React.js
      - TypeScript
      - Tailwind
@@ -17,6 +19,7 @@
      - MongoDB  
      
 :chart_with_downwards_trend: Inactive / Previously used 
+
      - Nuxt
      - Laravel
      - GraphiQL
