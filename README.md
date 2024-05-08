@@ -1,14 +1,7 @@
 
 <h1>Hello!!</h1>
 
-- Learning
-     - React.js
-     - TypeScript
-     - Tailwind
-     - Express.js
-     - MongoDB
-
-- 🌱 Active
+-  Active
      - Shopify
      - Liquid
      - Javascript
@@ -16,7 +9,12 @@
      - Wordpress
      - PHP 
      
-     
+- 🌱 Learning
+     - React.js
+     - TypeScript
+     - Tailwind
+     - Express.js
+     - MongoDB  
      
 - Inactive / Previously used 
      - Nuxt
