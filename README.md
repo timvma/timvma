@@ -2,7 +2,11 @@
 <h1>Hello!!</h1>
 
 - Learning
-     - React
+     - React.js
+     - TypeScript
+     - Tailwind
+     - Express.js
+     - MongoDB
 
 - 🌱 Active
      - Shopify
