@@ -23,6 +23,5 @@
      - Java
      - jQuery
      - AWS
-     - jQuery
  
      
