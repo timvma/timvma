@@ -1,7 +1,7 @@
 
 <h1>Hello!!</h1>
 
-- :signal_strength: Active
+- :beetle: Active
      - Shopify
      - Liquid
      - Javascript
