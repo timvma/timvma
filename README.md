@@ -14,7 +14,7 @@
      
      
      
-- Previously used / Inactive
+- Inactive / Previously used 
      - Nuxt
      - Laravel
      - GraphiQL
@@ -23,5 +23,6 @@
      - Java
      - jQuery
      - AWS
+     - Yii
  
      
