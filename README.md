@@ -6,28 +6,27 @@
      - Shopify
      - Liquid
      - Javascript
-     - Vue
-     - Wordpress
-     - PHP 
+     - Vue ( JS )
+     - Wordpress ( PHP )
      
 🌱 Learning
 
      - React.js
      - TypeScript
      - Tailwind
-     - Express.js
-     - MongoDB  
+     - Express.js ( Node.js )
+     - Mongoose ( MongoDB )  
      
 :chart_with_downwards_trend: Inactive / Previously used 
 
-     - Nuxt
-     - Laravel
-     - GraphiQL
+     - Nuxt ( Vue )
+     - Laravel ( PHP)
+     - GraphiQL 
      - MySQL
-     - Flutter
+     - Flutter ( Dart )
      - Java
      - jQuery
      - AWS
-     - Yii
- 
+     - Yii ( PHP )
+  
      
