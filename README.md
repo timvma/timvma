@@ -1,5 +1,5 @@
 
-<h1>Hello!!</h1>
+<h1>Hello World!</h1>
 
 :beetle: Active
 
@@ -8,6 +8,8 @@
      - Javascript
      - Vue ( JS )
      - Wordpress ( PHP )
+     - Photoshop 
+     - Illustrator
      
 🌱 Learning
 
@@ -16,9 +18,11 @@
      - Tailwind
      - Express.js ( Node.js )
      - Mongoose ( MongoDB )  
+     - Figma ( Design )
      
 :chart_with_downwards_trend: Inactive / Previously used 
 
+     
      - Nuxt ( Vue )
      - Laravel ( PHP)
      - GraphiQL 
