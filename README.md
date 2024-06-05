@@ -4,7 +4,7 @@
 :beetle: Active
 
      - Shopify
-     - Liquid
+     - Liquid ( Template language )
      - Javascript
      - Vue ( JS )
      - Wordpress ( PHP )
