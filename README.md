@@ -14,6 +14,7 @@
 🌱 Learning
 
      - React.js
+     - NextJS
      - TypeScript
      - Tailwind
      - Express.js ( Node.js )
