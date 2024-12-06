@@ -2,6 +2,7 @@
 <h1>Hello World!</h1>
 
 :beetle: Active
+
      - React.js
      - NextJS
      - TypeScript
@@ -11,6 +12,7 @@
      - Figma ( Design )
      
 🌱 Learning
+
      - Flutter
 
      
