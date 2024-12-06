@@ -10,6 +10,9 @@
      - Express.js ( Node.js )
      - Mongoose ( MongoDB )  
      - Figma ( Design )
+     - Google Maps API
+     - Vercel 
+     - Render
      
 🌱 Learning
 
