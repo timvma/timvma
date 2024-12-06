@@ -2,17 +2,6 @@
 <h1>Hello World!</h1>
 
 :beetle: Active
-
-     - Shopify
-     - Liquid ( Template language )
-     - Javascript
-     - Vue ( JS )
-     - Wordpress ( PHP )
-     - Photoshop 
-     - Illustrator
-     
-🌱 Learning
-
      - React.js
      - NextJS
      - TypeScript
@@ -21,9 +10,21 @@
      - Mongoose ( MongoDB )  
      - Figma ( Design )
      
+🌱 Learning
+     - Flutter
+
+     
 :chart_with_downwards_trend: Inactive / Previously used 
 
      
+    - Shopify
+     - Liquid ( Template language )
+     - Javascript
+     - Vue ( JS )
+     - Wordpress ( PHP )
+     - Photoshop 
+     - Illustrator
+
      - Nuxt ( Vue )
      - Laravel ( PHP)
      - GraphiQL 
