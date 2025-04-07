@@ -2,7 +2,6 @@
 <h1>Hello World!</h1>
 
 :beetle: Active
-
      - React.js
      - NextJS
      - TypeScript
@@ -16,7 +15,8 @@
      
 🌱 Learning
 
-     - Flutter
+     - AI 
+     - Cypress
 
      
 :chart_with_downwards_trend: Inactive / Previously used 
