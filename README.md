@@ -33,7 +33,7 @@
 
      - Nuxt ( Vue )
      - Laravel ( PHP)
-     - GraphiQL 
+     - GraphQL 
      - MySQL
      - Flutter ( Dart )
      - Java
