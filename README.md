@@ -1,44 +1,42 @@
 
 <h1>Hello World!</h1>
 
-:beetle: Active
+⚔️ Active
 
-     - React.js
-     - NextJS
+     - React.js / Next.js
+     - Javascript
      - TypeScript
      - Tailwind
-     - Express.js ( Node.js )
-     - Mongoose ( MongoDB )  
-     - Figma ( Design )
+     - Node.js / Express.js 
+     - MongoDB  
      - Google Maps API
      - Vercel 
      - Render
      
 🌱 Learning
 
-     - AI 
-     - Cypress
+     - LLM + database integration
+     - Cypress 
+
 
      
 :chart_with_downwards_trend: Inactive / Previously used 
 
      
-    - Shopify
+     - Shopify
      - Liquid ( Template language )
-     - Javascript
-     - Vue ( JS )
-     - Wordpress ( PHP )
-     - Photoshop 
-     - Illustrator
-
-     - Nuxt ( Vue )
-     - Laravel ( PHP)
+     - Vue.js / Nuxt.js
+     - PHP / Wordpress
+     - PHP / Laravel
      - GraphQL 
      - MySQL
-     - Flutter ( Dart )
+     - Dart / Flutter
      - Java
-     - jQuery
-     - AWS
-     - Yii ( PHP )
+     - Javascript / jQuery
+     - PHP / Yii
   
-     
+🤖 Software
+
+     - Photoshop 
+     - Illustrator
+     - Figma 
