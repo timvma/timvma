@@ -17,6 +17,8 @@
 
      - LLM + database integration
      - Cypress 
+     - Prisma
+     - PostgreSQL
 
 
      
