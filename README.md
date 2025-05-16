@@ -1,6 +1,12 @@
 
 <h1>Hello World!</h1>
 
+## 2025 Goal
+     - JLPT N2
+     - Learn to solve Leet Codes
+     - Learn Phaser.js and start to create a pokemon/ragnarok like game 
+
+
 ⚔️ Active
 
      - React.js / Next.js
@@ -12,6 +18,7 @@
      - Google Maps API
      - Vercel 
      - Render
+     - Prismic
      
 🌱 Learning
 
